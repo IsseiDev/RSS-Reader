@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Users\josia_000\Desktop\OmegaR\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable\ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="transparent"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable\transparent.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="arrow_next"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-hdpi\arrow_next.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-hdpi\ic_action_refresh.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-ldpi\ic_action_refresh.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-mdpi\ic_action_refresh.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-xhdpi\ic_action_refresh.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_refresh"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-xxhdpi\ic_action_refresh.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="feed_list"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\layout\feed_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="feed_list_item"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\layout\feed_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="inline_browser"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\layout\inline_browser.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="offline_reading"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\layout\offline_reading.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="splash"
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\layout\splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >OmegaR RSS Reader
+                </string>
+                <string name="title" >Title goes here!
+                </string>
+                <string name="date" >Date goes here!
+                </string>
+            </file>
+            <file
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AlertBox"
+                    parent="android:Theme.Black" />
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Light" />
+            </file>
+            <file
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" />
+
+                <style
+                    name="AlertBox"
+                    parent="android:Theme.Holo" />
+            </file>
+            <file
+                path="C:\Users\josia_000\Desktop\OmegaR\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AlertBox"
+                    parent="android:Theme.Holo" />
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" />
+            </file>
+        </source>
+        <source path="C:\Users\josia_000\Desktop\OmegaR\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\josia_000\Desktop\OmegaR\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\josia_000\Desktop\OmegaR\app\src\debug\res" />
+    </dataSet>
+
+</merger>

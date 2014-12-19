@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/josia_000/Desktop/OmegaR/app/src/main/res/values-v14/styles.xml -->
+    <eat-comment />
+
+    <style name="AlertBox" parent="android:Theme.Holo" />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar" />
+
+</resources>

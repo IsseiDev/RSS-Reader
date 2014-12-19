@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/josia_000/Desktop/OmegaR/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">OmegaR RSS Reader</string>
+    <string name="date">Date goes here!</string>
+    <string name="title">Title goes here!</string>
+    <!-- From: file:/C:/Users/josia_000/Desktop/OmegaR/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AlertBox" parent="android:Theme.Black" />
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+</resources>
